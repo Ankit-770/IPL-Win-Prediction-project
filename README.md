@@ -1,5 +1,8 @@
 # Capstone-Project-IPL-Match-Win-Prediction
 
+![image](https://github.com/Ankit-770/IPL-Win-Prediction-project/assets/90442965/1699d619-276b-4f88-83c5-f2d0669a9a96)
+
+
 Forecasting the likelihood of a team's victory in the Indian Premier League (IPL) is a critical business challenge for franchises, bookmakers, advertisers, and sponsors. Achieving the optimal prediction is of vital importance as it directly impacts various stakeholders.
 
 Franchises: Provisioning the right team composition and strategic decisions to maximize win probability while managing costs.
@@ -83,10 +86,12 @@ From the score we can see that Gradient boosting classifier model is best model 
 
 ## Outputs
 
+Gradient Boosting
+![image](https://github.com/Ankit-770/IPL-Win-Prediction-project/assets/90442965/16542ca5-ef2a-40b6-a19c-6b32d4ba633a)
 
-img
+Logistic Regression
+![image](https://github.com/Ankit-770/IPL-Win-Prediction-project/assets/90442965/068cdbcd-8715-4c87-8e87-523997b2a55f)
 
-img
 
 
 ## Conclusion
